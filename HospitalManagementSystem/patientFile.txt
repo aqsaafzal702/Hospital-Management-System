@@ -1,0 +1,4 @@
+1,Jhon doe,45,male,Hypertension
+2,Jane Smith,30,female,Asthma
+3,Emily Devis,29,female,Anxiety
+4,Michael wilson,50,male,arthritis
